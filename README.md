@@ -1,0 +1,2 @@
+# adyen-com-balanceplatformconfigurationnotification-v1-openapi
+OpenAPI specification for adyen.com API vBalancePlatformConfigurationNotification-v1
